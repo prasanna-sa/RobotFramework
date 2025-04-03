@@ -16,7 +16,7 @@ TestCase001
 #    Click Link               //a[@class="nav-link"]
 #    Page Should Contain      Login
 #    Input Text               email-id                    gurubhai@gmail.com
-#    Input Password           password                    Guru
+#    Input Password           password                    Guruchi
 #    Click Button             submit-id
 #    Page Should Contain      Our Happy Customers
 #    Sleep                    3
